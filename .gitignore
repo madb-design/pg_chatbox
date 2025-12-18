@@ -1,0 +1,14 @@
+# PostgreSQL build artifacts
+*.o
+*.so
+*.a
+*.bc
+*.tmp
+
+# Editor files
+*~
+*.swp
+*.swo
+
+# Logs
+*.log
